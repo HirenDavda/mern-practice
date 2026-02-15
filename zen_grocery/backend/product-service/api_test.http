@@ -1,0 +1,3 @@
+### GET all products
+GET http://localhost:5001/api/cart
+Content-Type: application/json

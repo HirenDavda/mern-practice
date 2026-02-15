@@ -1,0 +1,30 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment
+.env
+.env.local
+.env.production
+
+# Build
+dist/
+build/
+
+# Logs
+logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Coverage
+coverage/
+
+# MongoDB local data
+/data/db
